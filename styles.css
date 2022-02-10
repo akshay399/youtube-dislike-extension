@@ -1,0 +1,21 @@
+body {
+  width: 150px;
+  height: 150px;
+  background-color: #191918;
+  /* background-color: white; */
+  display: grid;
+  justify-content: center;
+}
+
+h3 {
+  /* display: inner-flex; */
+  margin: auto 10px;
+  font-size: 15px;
+  color: white;
+  /* color: blue; */
+  border-radius: 6px;
+  border: 1px solid #fe0100;
+  padding: 10px;
+}
+.runFunction {
+}
