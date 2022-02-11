@@ -1,9 +1,13 @@
 {
-  "name": "show dislikes",
-  "version": "0.0.1",
+  "name": "Get YouTube dislike count",
+  "version": "0.0.0.1",
   "manifest_version": 2,
   "browser_action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
   },
   "content_scripts": [
     {

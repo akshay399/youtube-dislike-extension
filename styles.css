@@ -17,5 +17,22 @@ h3 {
   border: 1px solid #fe0100;
   padding: 10px;
 }
-.runFunction {
+button {
+  cursor: pointer;
+}
+
+.github__icon {
+  align-items: center;
+  margin: 50%;
+  margin-top: 0;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+p {
+  font-size: 10px;
+}
+.source__code {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
